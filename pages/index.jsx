@@ -15,7 +15,7 @@ import {
   parseISO,
   startOfToday,
 } from 'date-fns'
-import { Fragment, useState } from 'react'
+import { useState } from 'react'
 
 const meetings = [
   {
